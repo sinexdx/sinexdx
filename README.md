@@ -1,42 +1,42 @@
-# Hi, I'm Sinéad Mogapi 👋
 
-🎓 Third-Year Digital Forensics & Cyber Security Student at TU Dublin
+# Hi, I'm Sinéad 👋
 
-I'm a Cyber Security student developing practical technical skills through academic projects, coursework and hands-on laboratory exercises.
+🎓 Digital Forensics & Cyber Security student at TU Dublin.
 
-## 🔐 Areas of Interest
-- Cybersecurity
-- Digital Forensics
-- Network Security
-- Security Operations
-- Vulnerability Assessment
+I'm currently in my third year, learning about different areas of cybersecurity, digital forensics, networking and programming.
 
-## 🛠️ Technical Skills
+## What I'm interested in
+- Cybersecurity and digital investigations
+- Network security
+- Vulnerability assessment
+- Security operations
+- Learning how to identify and investigate cyber threats
 
-**Programming:** Python, Java, Bash, PowerShell
+## Technical Skills
+- **Programming:** Python, Java, Bash, PowerShell
+- **Security Tools:** Wireshark, FTK Imager, Cisco Packet Tracer, OWASP Juice Shop
+- **Operating Systems:** Windows and Linux
+- **Networking:** TCP/IP, subnetting and ACLs
 
-**Cybersecurity:** Vulnerability Assessment, Threat Detection, Incident Response, Security Administration
+## University Projects
 
-**Tools:** Wireshark, FTK Imager, Cisco Packet Tracer, OWASP Juice Shop
+**Automated Cybersecurity Investigation Toolkit**
 
-**Systems:** Windows, Linux
+A project involving the use of Python, Bash and PowerShell to analyse security logs, Windows events and indicators of compromise.
 
-## 📂 Featured Projects
+[View repository](https://github.com/sinexdx/automated-cybersecurity-investigation-toolkit)
 
-### Automated Cybersecurity Investigation Toolkit
-An investigation toolkit developed using Python, Bash and PowerShell to analyse security logs, Windows events and indicators of compromise.
+**Web Application Security – OWASP Juice Shop**
 
-[View Repository](https://github.com/sinexdx/automated-cybersecurity-investigation-toolkit)
+A group project where I worked on investigating web application vulnerabilities and security weaknesses.
 
-### Web Application Security Assessment
-Academic group project investigating web application vulnerabilities using OWASP Juice Shop.
+**Network Security**
 
-### Network Security
-Academic project involving network design, subnetting and Access Control Lists (ACLs).
+Designed and configured a network using subnetting and Access Control Lists (ACLs).
 
-## 🎓 Education
+## Education
 BSc (Hons) Digital Forensics & Cyber Security  
 Technological University Dublin
 
-## 📫 Connect With Me
+## Find me elsewhere
 [LinkedIn](https://www.linkedin.com/in/sin%C3%A9ad-mogapi/)
